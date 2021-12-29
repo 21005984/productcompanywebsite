@@ -244,7 +244,7 @@ CONTACT.HTML
           </div>
         </div>
         <div class="footer">
-  Copyright &#169; 2021 Meiyarasi.V, Developed by Meiyarasi.V
+  Copyright &#169; 2021 microsoft product, Developed by Meiyarasi.V
 </div>
 </div>
 </body>
