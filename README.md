@@ -35,19 +35,19 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-HOME CODING
+HOME.HTML
 ```
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>EduSoft Private Limited</title>
+    <title>MICROSOFT PRODUCT</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
 
   <body>
     <div class="container">
-      <div class="banner">EduSoft Private Limited.</div>
+      <div class="banner">MICROSOFT PRODUCT</div>
       <div class="menu">
         <div class="menuitemselected"><a href="/static/home.html">Home</a></div>
         <div class="menuitem"><a href="/static/products.html">Products</a></div>
@@ -81,7 +81,7 @@ HOME CODING
         </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2021 EduSoft Private Limited, Developed by Obed Otto.
+        Copyright &#169; 2021 microsoft product, Developed by Meiyarasi.V
       </div>
     </div>
   </body>
@@ -92,48 +92,127 @@ PRODUCTS.HTML
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>EduSoft Private Limited</title>
+    <title>MICROSOFT PRODUCT</title>
     <link rel="stylesheet" href="./css/layout.css" />
-    <link rel="icon" href="./img/icon.png" type="image/x-icon" />
+    <link rel="icon" href="./img/icon2.png" type="image/x-icon" />
   </head>
 
   <body>
     <div class="container">
-      <div class="banner">EduSoft Private Limited.</div>
+      <div class="banner">MICROSOFT PRODUCT</div>
       <div class="menu">
         <div class="menuitem"><a href="/static/home.html">Home</a></div>
-        <div class="menuitemselected">
-          <a href="/static/products.html">Products</a>
-        </div>
-        <div class="menuitem"><a>People</a></div>
-        <div class="menuitem"><a>Contact Us</a></div>
+        <div class="menuitemselected"><a href="/static/products.html">Products</a></div>  
+        <div class="menuitem"><a href="/static/people.html">People</a></div>
+        <div class="menuitem"><a href="/static/contact us.html">Contact Us</a></div>
       </div>
       <div class="content">
         <div class="productcontent">    
           <h1>Our Premium Products</h1>
           <div class="productitems">
+
               <div class="productitem"> 
                   <div class="itemimage">
-                  <img src="/static/img/tally_gold.png" alt="product image">
+                  <img src="/static/img/M1.jfif" alt="product image">
                   </div>
-                  <div class="itemname">Tally Gold</div>
-                  <div class="itemprice">Price: Rs.40,000.00 </div>
+                  <div class="itemname">access</div>
+                  <div class="itemprice">Price:Rs.10,000</div>
               </div>
+
               <div class="productitem"> 
                   <div class="itemimage">
-                  <img src="/static/img/tally_silver.png"  alt="product image">
+                  <img src="/static/img/M2.jfif"  alt="product image">
                   </div>
-                  <div class="itemname">Tally Silver</div>
-                  <div class="itemprice">Price: Rs.10,000.00 </div>
+                  <div class="itemname">azur</div>
+                  <div class="itemprice">Price:Rs.8999</div>
               </div>
+
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="/static/img/M3.jfif"  alt="product image">
+                  </div>
+                  <div class="itemname">clouds/div>
+                  <div class="itemprice">Price: Rs.7599 </div>
+              </div>
+
+              <div class="productitem"> 
+                <div class="itemimage">
+                <img src="/static/img/M4.jfif"  alt="product image">
+                </div>
+                <div class="itemname">edge</div>
+                <div class="itemprice">Price: 5599 </div>
+            </div>
+
+            <div class="productitem"> 
+              <div class="itemimage">
+              <img src="/static/img/M5.jfif"  alt="product image">
+              </div>
+              <div class="itemname">exel</div>
+              <div class="itemprice">Price: Rs.700.00 </div>
           </div>
-          </div>        
+
+          <div class="productitem"> 
+            <div class="itemimage">
+            <img src="/static/img/M6.jfif"  alt="product image">
+            </div>
+            <div class="itemname">word</div>
+            <div class="itemprice">Price: Rs.859 </div>
+        </div>
+
+        <div class="productitem"> 
+          <div class="itemimage">
+          <img src="/static/img/M7.jfif"  alt="product image">
+          </div>
+          <div class="itemname">publisher</div>
+          <div class="itemprice">Price: Rs.500.00 </div>
       </div>
-      <div class="footer">
-        Copyright &#169; 2021 EduSoft Private Limited, Developed by Obed Otto.
+
+      <div class="productitem"> 
+        <div class="itemimage">
+        <img src="/static/img/M8.jfif"  alt="product image">
+        </div>
+        <div class="itemname">share point</div>
+        <div class="itemprice">Price: Rs.759 </div>
+    </div>
+
+    <div class="productitem"> 
+      <div class="itemimage">
+      <img src="/static/img/M9.jfif"  alt="product image">
+      </div>
+      <div class="itemname">skype</div>
+      <div class="itemprice">Price: Rs.1999 </div>
+    </div>
+
+    <div class="productitem"> 
+       <div class="itemimage">
+       <img src="/static/img/M10.jfif"  alt="product image">
+       </div>
+       <div class="itemname">SQL server</div>
+       <div class="itemprice">Price: Rs.2229.00 </div>
+    </div>
+    <div class="productitem"> 
+      <div class="itemimage">
+      <img src="/static/img/M11.jfif"  alt="product image">
+    </div>
+       <div class="itemname">store</div>
+       <div class="itemprice">Price: Rs.789 </div>
+    </div>
+
+    <div class="productitem"> 
+      <div class="itemimage">
+      <img src="/static/img/M12.jfif"  alt="product image">
+     </div>
+        <div class="itemname">one note</div>
+        <div class="itemprice">Price: Rs.2559 </div>
       </div>
     </div>
-  </body>
+  </div>        
+  </div>
+    <div class="footer">
+      Copyright &#169; 2021 microsoft product, Developed by Meiyarasi.V
+    </div>
+  </div>
+ </body>
 </html>
 ```
 CONTACT.HTML
@@ -169,6 +248,74 @@ CONTACT.HTML
 </div>
 </div>
 </body>
+</html>
+```
+PEOPLE.HTML
+```
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>MICROSOFT PRODUCT</title>
+    <link rel="stylesheet" href="./css/layout.css" />
+    <link rel="icon" href="./img/icon2.png" type="image/x-icon" />
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="banner">MICROSOFT PRODUCT</div>
+      <div class="menu">
+        <div class="menuitem"><a href="/static/home.html">Home</a></div>
+        <div class="menuitem"><a href="/static/products.html">Products</a></div>  
+        <div class="menuitemselected"><a href ="/static/people.html"></a>People</a></div>
+        <div class="menuitem"><a href="/static/contact us.html">Contact Us</a></div>
+      </div>
+      <div class="productitem"> 
+        <div class="itemimage">
+        <img src="/static/img/P1.png"  alt="product image">
+      </div>
+         <div class="itemname">HEAD of the company
+           <br>
+           (Diana)
+         </div>
+      </div>
+      <div class="productitem"> 
+        <div class="itemimage">
+        <img src="/static/img/P2.png"  alt="product image">
+      </div>
+         <div class="itemname">Manager
+           <br>
+           (Selvi)
+         </div>
+      </div>
+      <div class="productitem"> 
+        <div class="itemimage">
+        <img src="/static/img/P3.png"  alt="product image">
+      </div>
+         <div class="itemname">Assistant class <br>(Berry)</div>
+      </div>
+      <div class="productitem"> 
+        <div class="itemimage">
+        <img src="/static/img/P4.png"  alt="product image">
+      </div>
+         <div class="itemname">Product Department Head <br> (Jhon)</div>
+      </div>
+      <div class="productitem"> 
+        <div class="itemimage">
+        <img src="/static/img/P5.PNG"  alt="product image">
+      </div>
+         <div class="itemname">Deliver Department Head <br> (Lakshmi)</div>
+      </div>
+      <div class="productitem"> 
+        <div class="itemimage">
+        <img src="/static/img/P6.PNG"  alt="product image">
+      </div>
+         <div class="itemname">Mumbai Branch Head <br> (Dev)</div>
+      </div>
+      <div class="footer">
+        Copyright &#169; 2021 Microsoft product, Developed by Meiyarasi.V
+      </div>
+    </div>
+  </body>
 </html>
 ```
 LAYOUT.CSS
