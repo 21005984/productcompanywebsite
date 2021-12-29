@@ -59,19 +59,9 @@ HOME.HTML
           <h1>About Us</h1>
           <img src="./img/building.png" alt="Building" />
           <div class="contenttext">
-            At Tally, we believe in the power of technology to make business
-            owners efficient, empowered and happier, so they can focus on what
-            matters most for their business. We design our products to focus on
-            just that to make our products work for you, and not the other way
-            around.
+           Microsoft entered the operating system (OS) business in 1980 with its own version of Unix called Xenix,[26] but it was MS-DOS that solidified the company's dominance.
             <br />
-            Our new product TallyPrime takes this to a new level, making your
-            start to automation, or your switch to Tally simpler than ever
-            before. You can now discover the product much more easily and make
-            the product do more for you, without learning anything new. There is
-            greater flexibility as the product adapts to your business and your
-            way of working. And the transformed look and feel will only make you
-            love the product even more.
+             IBM awarded a contract to Microsoft in November 1980 to provide a version of the CP/M OS to be used in the IBM Personal Computer (IBM PC).[27] For this deal, Microsoft purchased a CP/M clone called 86-DOS from Seattle Computer Products which it branded as MS-DOS, although IBM rebranded it to IBM PC DOS.
             <ul>
               <li>Simple to learn, easier to use</li>
               <li>Insightful , actionable & customizable reports</li>
